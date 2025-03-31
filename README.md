@@ -96,7 +96,3 @@ Visit `http://127.0.0.1:5000/` in your browser.
 - **LAVANYA KARAMPURI**
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
-
-## 📜 License
-
-This project is licensed under the MIT License. See `LICENSE` for details.
