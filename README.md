@@ -16,10 +16,12 @@ This is a web-based **Income & Expense Manager** that helps users track their fi
 
 ## 🛠️ Technologies Used
 
+- **Backend**: Flask (Python web framework)
 - **Frontend**: HTML, CSS, Bootstrap
-- **Backend**: Flask (Python)
-- **Database**: MySQL
-- **Report Generation**: Pandas, FPDF, openpyxl
+- **Database**: MySQL (for storing income, expense, and stock data)
+- **PDF Generation**: pdfkit for generating PDF reports
+- **Excel Generation**: pandas library for generating Excel reports
+- **Environment Variables**: For secret key management and configuration
 
 ## 📦 Required Packages
 Install the following dependencies before running the project:
