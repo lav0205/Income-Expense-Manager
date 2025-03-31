@@ -120,11 +120,11 @@ Visit `http://127.0.0.1:5000/` in your browser.
 ![Screenshot (94)](https://github.com/user-attachments/assets/3e4b7200-497a-44f2-9c99-e9bdd29f77a5)
 
 - Download Reports
-      * PDF Format-
+  * PDF Format-
       ![Screenshot (95)](https://github.com/user-attachments/assets/59593476-3fe4-43ec-8a34-8b206e72cf16)
       ![Screenshot (96)](https://github.com/user-attachments/assets/f7f13a01-2d3d-4b6a-87e5-75adac6f8803)
       [report.pdf](https://github.com/user-attachments/files/19541170/report.pdf)
-      * EXCEL Format-
+  * EXCEL Format-
       ![Screenshot (97)](https://github.com/user-attachments/assets/0a026ad8-aa7e-4f5c-a8ee-89c16ecc4b35)
       ![Screenshot (98)](https://github.com/user-attachments/assets/91dc74af-6495-4bd6-82fc-c731d6e541b9)
       [report.xlsx](https://github.com/user-attachments/files/19541175/report.xlsx)
