@@ -87,7 +87,7 @@ git init
 git add .
 git commit -m "Initial commit"
 git branch -M main
-git remote add origin https://github.com/yourusername/income-expense-manager.git
+git remote add origin https://github.com/lav0205/Income-Expense-Manager.git
 git push -u origin main
 ```
 
