@@ -21,6 +21,13 @@ This is a web-based **Income & Expense Manager** that helps users track their fi
 - **Database**: MySQL
 - **Report Generation**: Pandas, FPDF, openpyxl
 
+## 📦 Required Packages
+Install the following dependencies before running the project:
+```sh
+pip install flask flask-mysqldb pandas pdfkit openpyxl fpdf
+```
+
+
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the Repository
