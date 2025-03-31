@@ -32,6 +32,13 @@ pip install flask flask-mysqldb pandas pdfkit openpyxl fpdf
 
 ## ⚙️ Installation & Setup
 
+### Prerequisites
+
+1. Python 3.x
+2. MySQL database
+3. wkhtmltopdf (for generating PDFs)'=
+
+
 ### 1️⃣ Clone the Repository
 
 ```sh
@@ -58,7 +65,30 @@ DB_PASSWORD = "your_password"
 DB_NAME = "income_expense_db"
 ```
 
-### 4️⃣ Run the Application
+### 4️⃣ Set up MySQL Database
+Create a database income_expense_db in MySQL.
+Use the following schema to create the tables:
+
+```sql
+     CREATE TABLE stock (
+         id INT AUTO_INCREMENT PRIMARY KEY,
+         vendor_name VARCHAR(255),
+         type ENUM('Purchase', 'Sale'),
+         quantity INT,
+         price DECIMAL(10, 2)
+     );
+```
+
+```sql
+     CREATE TABLE income_expense (
+         id INT AUTO_INCREMENT PRIMARY KEY,
+         category VARCHAR(255),
+         type ENUM('Income', 'Expense'),
+         amount DECIMAL(10, 2)
+     );
+```
+
+### Run the Application
 
 ```sh
 flask run
