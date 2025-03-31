@@ -71,33 +71,25 @@ Visit `http://127.0.0.1:5000/` in your browser.
 ## 📊 Outputs & Screenshots
 
 ### 🔹 Dashboard
+![Screenshot (91)](https://github.com/user-attachments/assets/09bb0bf9-6ae6-4cc4-88ee-d62c776639d9)
+![Screenshot (92)](https://github.com/user-attachments/assets/aba135cd-fa0f-4e54-846f-ae1c094fc82b)
 
+- Stock Manager Management
+![Screenshot (93)](https://github.com/user-attachments/assets/95d9f866-bbc9-4110-ba77-8b82e1f7a98f)
 
+- Income & Expense Management
+![Screenshot (94)](https://github.com/user-attachments/assets/3e4b7200-497a-44f2-9c99-e9bdd29f77a5)
+
+- Reports (PDF & Excel)
+![Screenshot (95)](https://github.com/user-attachments/assets/59593476-3fe4-43ec-8a34-8b206e72cf16)
+![Screenshot (96)](https://github.com/user-attachments/assets/f7f13a01-2d3d-4b6a-87e5-75adac6f8803)
+![Screenshot (97)](https://github.com/user-attachments/assets/0a026ad8-aa7e-4f5c-a8ee-89c16ecc4b35)
+![Screenshot (98)](https://github.com/user-attachments/assets/91dc74af-6495-4bd6-82fc-c731d6e541b9)
 
 ### 🔹 Invoice Page
+![Screenshot (99)](https://github.com/user-attachments/assets/363827c4-f4f5-4988-8cf8-617d9cdc0f4d)
+![Screenshot (100)](https://github.com/user-attachments/assets/4293b932-9c17-4c02-93d4-9bf6ff868295)
 
-
-
-## 📤 Uploading to GitHub
-
-1. **Initialize Git** (if not already done):
-
-```sh
-git init
-git add .
-git commit -m "Initial commit"
-git branch -M main
-git remote add origin https://github.com/lav0205/Income-Expense-Manager.git
-git push -u origin main
-```
-
-2. **Push new changes**:
-
-```sh
-git add .
-git commit -m "Updated ReadMe & Features"
-git push origin main
-```
 
 ## 🛠️ Author & Contributions
 
