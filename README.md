@@ -36,7 +36,7 @@ pip install flask flask-mysqldb pandas pdfkit openpyxl fpdf
 
 1. Python 3.x
 2. MySQL database
-3. wkhtmltopdf (for generating PDFs)'=
+3. wkhtmltopdf (for generating PDFs)
 
 
 ### 1️⃣ Clone the Repository
